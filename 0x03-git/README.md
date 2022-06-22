@@ -1,1 +1,5 @@
-edited file
+# GIT
+
+## Description:
+
+  Git assignment is stored here
